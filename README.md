@@ -1,4 +1,4 @@
-# 🎧 Simple Music Player
+# 🎧 Simple Music Player(University project)
 
 A lightweight, feature-rich audio player for Windows built with C# and BASS.
 
